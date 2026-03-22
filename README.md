@@ -35,9 +35,9 @@ Este proyecto utiliza el dataset MNIST para entrenar modelos capaces de reconoce
 
 | Modelo | Precisión |
 |--------|----------|
-| Pequeña | 92% |
-| Mediana | 96% |
-| Grande | 97% |
+| Pequeña | 0.9650 |
+| Mediana | 0.9738 |
+| Grande | 0.9777 |
 
 🏆 Mejor modelo: Red Grande
 
