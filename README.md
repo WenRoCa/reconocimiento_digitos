@@ -50,7 +50,7 @@ Este proyecto utiliza el dataset MNIST para entrenar modelos capaces de reconoce
 pip uninstall numpy tensorflow keras -y
 pip install tensorflow==2.15.0 keras==2.15.0 numpy==1.26.4
 
-python main.py
+python reconocimiento_digitos.py
 
 ```
 ---
