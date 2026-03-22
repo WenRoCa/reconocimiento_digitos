@@ -48,10 +48,7 @@ Este proyecto utiliza el dataset MNIST para entrenar modelos capaces de reconoce
 ```bash
 
 pip uninstall numpy tensorflow keras -y
-pip install numpy==1.26.4
-pip install tensorflow==2.15.0
-pip install keras==2.15.0
-pip install matplotlib scikit-learn
+pip install tensorflow==2.15.0 keras==2.15.0 numpy==1.26.4
 
 python main.py
 
